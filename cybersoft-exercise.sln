@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "homework", "homework", "{6871ED73-8B02-28C5-BB0F-0B6B8FBABDB5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "10_10_2025", "10_10_2025", "{A6B80B81-F6CC-FB9A-BBD7-652939A89C7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_else_condition", "homework\10_10_2025\if_else_condition\if_else_condition.csproj", "{2A887134-C59D-318A-F26B-61292893156B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A887134-C59D-318A-F26B-61292893156B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A887134-C59D-318A-F26B-61292893156B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A887134-C59D-318A-F26B-61292893156B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A887134-C59D-318A-F26B-61292893156B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A6B80B81-F6CC-FB9A-BBD7-652939A89C7B} = {6871ED73-8B02-28C5-BB0F-0B6B8FBABDB5}
+		{2A887134-C59D-318A-F26B-61292893156B} = {A6B80B81-F6CC-FB9A-BBD7-652939A89C7B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4711EEF1-DC4A-4047-9ACC-49DDBF45EDD0}
+	EndGlobalSection
+EndGlobal
